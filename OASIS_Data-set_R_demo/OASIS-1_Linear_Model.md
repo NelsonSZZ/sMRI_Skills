@@ -1,14 +1,11 @@
 # Intro
 
-As a general note, every statistical test is a linear model asking: "does knowing X help me predict Y, beyond chance?"
-With this, all statistical test answers the same question, just different data shapes.
+As a general note, every statistical test is a linear model asking: "does knowing X help me predict Y, beyond chance?" With this, all statistical test answers the same question, just different data shapes.
 
 Instead of just a general correlational test, that tells you the strength of the relationship,
 models shows you the size of that relationship.
 
-
-# What is the scientific question?
-## Does Brain Volume Decline with Age? 
+# Scientific Question: Does Brain Volume Decline with Age? 
 
 nWBV (normalised whole brain volume) as our outcome and Age as our predictor
 
