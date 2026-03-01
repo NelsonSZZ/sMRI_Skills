@@ -24,6 +24,11 @@ Notes on setting up Python via Anaconda, managing environments with conda, and w
 
 ---
 
+### 📈 [R — Statistical Modelling](https://github.com/NelsonSZZ/Structural_MRI_Notes/tree/main/R)
+
+Notes on learning statistical modelling in R, built around the **OASIS brain imaging dataset** — a real clinical dataset of 436 subjects including 100 with early-stage Alzheimer's Disease. Covers the full pipeline from loading and cleaning data through to linear models, logistic regression, and mixed effects models, with every concept explained through actual code, real output, and mistakes made along the way.
+
+
 ## 🚧 Status
 
 This repository is actively being built out. More sections on **FreeSurfer** and advanced Python for neuroimaging will be added over time.
