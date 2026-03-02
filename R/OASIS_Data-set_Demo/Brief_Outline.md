@@ -13,3 +13,5 @@ As a general note, every statistical test is a linear model asking: "does knowin
 Instead of just a general correlational test, that tells you the strength of the relationship,
 models shows you the size of that relationship.
 
+## Model comparison - Why We Do It
+
