@@ -42,6 +42,7 @@ coef(model_age)['Age']
 coef(model_full)['Age']
 
 # Plotting the graph
+
 ggplot(oasis_complete, aes(x = Age, y = nWBV)) +
   geom_point(alpha = 0.4,color = 'blue') +
   geom_smooth(method = 'lm', color = 'red', se = TRUE ) +
