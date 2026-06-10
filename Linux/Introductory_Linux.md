@@ -1,6 +1,6 @@
-# 🐧 What is Linux?
+# 🐧 What are Linux Commands?
 
-> Linux is an operating system — like Windows, but with far more customisability and freedom. These are my personal notes adapted from multiple resources (linked below) to make concepts easier for me to remember and revisit.
+> Linux commands allows you to interact with your operating system through a terminal using text-based instructions.
 
 ---
 
